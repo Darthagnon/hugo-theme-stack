@@ -11,7 +11,7 @@
 
 ## Documentation
 
-[Documentation](https://docs.stack.jimmycai.com/) | [中文文档](https://docs.stack.jimmycai.com/zh/)
+[Documentation](https://docs.stack.jimmycai.com/) | [中文文档](https://docs.stack.jimmycai.com/zh/) | ([Source](https://github.com/CaiJimmy/stack-docs))
 See also the [`/docs` folder](/docs)
 
 ## Introduction
