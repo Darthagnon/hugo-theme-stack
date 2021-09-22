@@ -1,0 +1,3 @@
+[submodule "docs/stack-docs"]
+	path = docs/stack-docs
+	url = git@github.com:CaiJimmy/stack-docs.git
