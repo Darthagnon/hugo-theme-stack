@@ -1,4 +1,4 @@
-![Stack](https://i.imgur.com/cCiHOGS.jpg)
+![Stack](/images/cCiHOGS.jpg)
 # Hugo Theme Stack
 
 > Card-style Hugo theme designed for bloggers.
@@ -12,6 +12,7 @@
 ## Documentation
 
 [Documentation](https://docs.stack.jimmycai.com/) | [中文文档](https://docs.stack.jimmycai.com/zh/)
+See also the [`/docs` folder](/docs)
 
 ## Introduction
 
@@ -39,7 +40,7 @@ Clone / Download this repository to `theme` folder, and edit your site config fo
 
 *Note: Remove `config.toml` if there is one in the site folder.*
 
-Check [documentation](https://docs.stack.jimmycai.com/) for more details.
+Check [documentation](#documentation) for more details.
 
 ## Copyright
 
